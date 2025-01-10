@@ -82,7 +82,7 @@ const Weather = () => {
                 <div className='flex items-start gap-[12px] text-[22px]'>
                     <img src="/src/assets/wind.png" alt="" className='w-[26px] mt-[10px]' />
                     <div>
-                        <p>{weatherData.windSpeed} Km/h</p>
+                        <p>{weatherData.windSpeed} Km/h soat</p>
                         <span className='block text-[16px]'>Скорость ветра</span>
                     </div>
                 </div>
